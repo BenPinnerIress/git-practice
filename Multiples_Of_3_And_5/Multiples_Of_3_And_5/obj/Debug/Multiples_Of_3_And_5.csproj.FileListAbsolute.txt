@@ -1,0 +1,6 @@
+C:\Users\ben.pinner\Desktop\Project_Euler Solutions\Multiples_Of_3_And_5\Multiples_Of_3_And_5\bin\Debug\Multiples_Of_3_And_5.exe.config
+C:\Users\ben.pinner\Desktop\Project_Euler Solutions\Multiples_Of_3_And_5\Multiples_Of_3_And_5\bin\Debug\Multiples_Of_3_And_5.exe
+C:\Users\ben.pinner\Desktop\Project_Euler Solutions\Multiples_Of_3_And_5\Multiples_Of_3_And_5\bin\Debug\Multiples_Of_3_And_5.pdb
+C:\Users\ben.pinner\Desktop\Project_Euler Solutions\Multiples_Of_3_And_5\Multiples_Of_3_And_5\obj\Debug\Multiples_Of_3_And_5.csprojAssemblyReference.cache
+C:\Users\ben.pinner\Desktop\Project_Euler Solutions\Multiples_Of_3_And_5\Multiples_Of_3_And_5\obj\Debug\Multiples_Of_3_And_5.exe
+C:\Users\ben.pinner\Desktop\Project_Euler Solutions\Multiples_Of_3_And_5\Multiples_Of_3_And_5\obj\Debug\Multiples_Of_3_And_5.pdb
